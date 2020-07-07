@@ -45,12 +45,27 @@ button{
 }
 .card{
     border: none;
-    box-shadow: 5px 3px 2px rgb(192, 182, 182);
+    box-shadow: 5px 3px 10px rgb(218, 214, 214);
     border-radius: 10px;
 }
 .card-footer {
     border-top: none;
     background-color: white;
 }
+.col{
+    border: none;
+    border-radius: 0px 10px;
+    box-shadow: 2px 3px 2px 10px rgb(228, 224, 224);
+}
+.cat-bag{
+    border: none;
+    border-radius: 10px 0px;
+    box-shadow: 2px 3px 2px 10px rgb(211, 208, 208);
+    margin: 60px 50px;
 
+}
+
+footer{
+    text-align: center;
+}
 
